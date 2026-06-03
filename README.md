@@ -1,4 +1,4 @@
-# hello, i'm wesley
+hello, i'm wesley
 
 [Website](https://www.wesleylu.com) · [Blog](https://www.wesleylu.com/blog) · [GitHub](https://github.com/wlu03)
 
