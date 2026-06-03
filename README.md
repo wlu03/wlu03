@@ -1,4 +1,4 @@
-hello, i'm wesley
+hello, i'm wesley. here is some of my work
 
 [Website](https://www.wesleylu.com) · [Blog](https://www.wesleylu.com/blog) · [GitHub](https://github.com/wlu03)
 
@@ -8,7 +8,7 @@ hello, i'm wesley
 **Benchmark: Can LLMs Optimize Code Compilers Can't?** — [Repo](https://github.com/wlu03/pattern-driven-optimization-benchmark)  
 28 inefficiency patterns and an eval harness measuring real speedup + correctness.
  
-**RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents** — [Repo](#)  
+**RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents (IP)** — [Repo](#)  
 Counterfactual evaluation of whether long-horizon agents can recover their reasoning after a disruption.
  
 **Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)** — [Repo](https://github.com/wlu03/world2sim) · [Write-up](https://www.wesleylu.com/blog/multinomial-2-robo-sim)  
