@@ -1,50 +1,37 @@
-hello, i'm wesley. here is some of my work
+hello, i'm wesley. here's some of my publicized work
 
 [Website](https://www.wesleylu.com) · [Blog](https://www.wesleylu.com/blog) · [GitHub](https://github.com/wlu03)
 
 ---
 
-## AI/ML 
-**Benchmark: Can LLMs Optimize Code Compilers Can't?** — [Repo](https://github.com/wlu03/pattern-driven-optimization-benchmark)  
-28 inefficiency patterns and an eval harness measuring real speedup + correctness.
- 
-**RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents (IP)** — [Repo](#)  
-Counterfactual evaluation of whether long-horizon agents can recover their reasoning after a disruption.
- 
-**Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)** — [Repo](https://github.com/wlu03/world2sim) · [Write-up](https://www.wesleylu.com/blog/multinomial-2-robo-sim)  
-Turns a scene into a runnable sim a robot manipulates from language. Built at the YC × DeepMind hackathon.
- 
-**Survey: World Models & Vision-Language-Action Models** — [Survey](https://www.wesleylu.com/blog/world-models-and-vla)  
-A field guide from Dyna and Dreamer through JEPA to π-0 and GR00T, with diagrams and worked math.
- 
-**Building an LM from Scratch** — [Repo](https://github.com/wlu03/lm-from-scratch)  
-BPE + Transformer, FlashAttention/DDP/FSDP, scaling laws, data pipeline, and alignment (SFT/DPO/GRPO).
- 
-**Every Sutton & Barto RL Algorithm, Applied to Gomoku** — [Repo](https://github.com/wlu03/sutton-barto-gomoku)  
-Tabular methods on 6×6 up to AlphaZero-style self-play on 15×15, with a web UI for play and replay.
- 
-**LLM Utility Learning from Perceived Outcomes (OM-LEU)** — [Repo](https://github.com/wlu03/om-leu)  
-Learns human utility from LLM-generated, embedding-encoded outcomes, trained on Amazon purchase + survey data.
- 
-**ML-Driven Market-Neutral Pairs Trading (CS 4641)** — [Project Page](https://wlu03.github.io/CS4641/)  
-Clustering for pair discovery, then OLS + Kalman spread models with cointegration filtering and Monte Carlo testing.
+## AI/ML
 
----
+### Benchmarks & Evaluation
+
+- [Benchmark: Can LLMs Optimize Code Compilers Can't?](https://github.com/wlu03/pattern-driven-optimization-benchmark)
+- [RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents](#)
+
+### World Models, Simulation & Embodied AI
+
+- [Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)](https://github.com/wlu03/world2sim) `YC × DeepMind`
+- [Survey: World Models & Vision-Language-Action Models](https://www.wesleylu.com/blog/world-models-and-vla)
+
+### Building Core Algorithms from Scratch
+
+- [Building an LM from Scratch](https://github.com/wlu03/lm-from-scratch)
+- [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
+
+### Applied ML on Real-World Data
+
+- [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu)
+- [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
 
 ## Systems
 
-**Compiler Backend: MIPS Codegen** — [Repo](https://github.com/wlu03/tiger_compiler_2)  
-Instruction selection with naive and greedy register allocation, plus a MIPS interpreter. Written in Java.
-
-**Cache Simulator** — [Notebook](https://github.com/wlu03/cs4290/blob/main/project1_v1_1/search/cache_analysis.ipynb)  
-Simulates caches across size, associativity, and block size, analyzing hit/miss behavior.
-
----
+- [Compiler Backend: MIPS Codegen](https://github.com/wlu03/tiger_compiler_2) 
+- [Cache Simulator](https://github.com/wlu03/cs4290/blob/main/project1_v1_1/search/cache_analysis.ipynb)
 
 ## Writing & Reading
 
-**Crypto's Reading List** — [Notes](https://www.wesleylu.com/blog/jump-crypto-reading-list)  
-Token theory, the Bitcoin and Ethereum protocols, and DeFi (AMMs, Uniswap math, MEV).
-
-**Chess is Hard: Why Generalized Chess Is EXPTIME-Complete** — [Live](https://chess-is-hard.vercel.app/)  
-A modern proof of the Fraenkel–Lichtenstein result via APSPACE = EXPTIME and a 2CL gadget reduction.
+- [Crypto's Reading List](https://www.wesleylu.com/blog/jump-crypto-reading-list)
+- [Chess is Hard: Why Generalized Chess Is EXPTIME-Complete](https://chess-is-hard.vercel.app/)
