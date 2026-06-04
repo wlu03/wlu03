@@ -10,6 +10,7 @@ hello, i'm wesley. here's some of my publicized work
 
 - [Benchmark: Can LLMs Optimize Code Compilers Can't?](https://github.com/wlu03/pattern-driven-optimization-benchmark)
 - [RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents](#)
+- [Dense vs. MoE Layer Specialization during RL in Interleaved Models](#)
 
 #### World Models, Simulation & Embodied AI
 
