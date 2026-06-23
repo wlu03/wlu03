@@ -11,13 +11,13 @@ hello, i'm wesley. here's some of my publicized work
 - [Dense vs. MoE Layer Specialization during RL in Interleaved Models](#)
 - [Building an LM from Scratch](https://github.com/wlu03/lm-from-scratch)
 - [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
-- [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu)
+- [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu) 
 - [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
 - [Closing the Loop in AI Code Gen with Multi-CUA for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) `UC Berkeley AI Hackathon: 🏆 Hacker's Choice Award · Finalist`
 
 #### World Models, Simulation & Embodied AI
 
-- [Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)](https://github.com/wlu03/world2sim) `YC × DeepMind`
+- [Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)](https://github.com/wlu03/world2sim) `YC × DeepMind Hackathon`
 - [Survey: World Models & Vision-Language-Action Models](https://www.wesleylu.com/blog/world-models-and-vla)
 
 ### Systems
