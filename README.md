@@ -13,7 +13,7 @@ hello, i'm wesley. here's some of my publicized work
 - [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
 - [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu)
 - [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
-- [Inspector: Closing the Loop in AI Code Generation with Multi-Agent Computer Use for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) `🏆 Hacker's Choice Award · Finalist`
+- [Closing the Loop in AI Code Gen with Multi-CUA for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) `UC Berkeley AI Hackathon: 🏆 Hacker's Choice Award · Finalist`
 
 #### World Models, Simulation & Embodied AI
 
