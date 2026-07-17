@@ -13,7 +13,7 @@ hello, i'm wesley. here's some of my publicized work
 - [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
 - [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu) 
 - [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
-- 
+
 #### World Models, Simulation & Embodied AI
 
 - [Multimodal Data to Robot-Ready MuJoCo Simulator (world2sim)](https://github.com/wlu03/world2sim) `YC × DeepMind Hackathon`
