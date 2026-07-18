@@ -5,7 +5,7 @@ hello, i'm wesley. here's some of my publicized work
 ---
 
 ### AI/ML
-- [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates)
+- [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) 
 [![Repo](https://img.shields.io/badge/GitHub-wlu03%2FInspector-181717?logo=github&logoColor=white)](https://github.com/wlu03/Inspector)
 [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
 - [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu) 
