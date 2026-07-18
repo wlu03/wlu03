@@ -8,14 +8,14 @@ hello, i'm wesley. here's some of my publicized work
 - [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates)
 [![Repo](https://img.shields.io/badge/GitHub-wlu03%2FInspector-181717?logo=github&logoColor=white)](https://github.com/wlu03/Inspector)
 [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
-
+- [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu) 
 - [Benchmark: Can LLMs Optimize Code Compilers Can't?](https://github.com/wlu03/pattern-driven-optimization-benchmark)
 - [RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents](#)
+- [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
 - [Dense vs. MoE Layer Specialization during RL in Interleaved Models](#)
 - [Building an LM from Scratch](https://github.com/wlu03/lm-from-scratch)
 - [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
-- [LLM Utility Learning from Perceived Outcomes (OM-LEU)](https://github.com/wlu03/om-leu) 
-- [ML-Driven Market-Neutral Pairs Trading](https://wlu03.github.io/CS4641/)
+
 
 #### World Models, Simulation & Embodied AI
 
