@@ -5,7 +5,7 @@ hello, i'm wesley. here's some of my publicized work
 ---
 
 ### AI/ML
-- [Closing the Loop in AI Code Gen with Multi-CUA for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) `UC Berkeley AI Hackathon: 🏆 Hacker's Choice Award · Finalist`
+- [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) [Docs](https://deepwiki.com/wlu03/Inspector/1-inspector-mcp-overview) [Repo](https://github.com/wlu03/Inspector) `UC Berkeley AI Hackathon: 🏆 Hacker's Choice Award · Finalist`
 - [Benchmark: Can LLMs Optimize Code Compilers Can't?](https://github.com/wlu03/pattern-driven-optimization-benchmark)
 - [RECKONING: A Counterfactual Benchmark for Post-Break Metacognitive Recovery in Long-Horizon Agents](#)
 - [Dense vs. MoE Layer Specialization during RL in Interleaved Models](#)
