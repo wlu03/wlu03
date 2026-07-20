@@ -15,7 +15,7 @@ hello, i'm wesley. here's some of my publicized work
 - [Every Sutton & Barto RL Algorithm, Applied to Gomoku](https://github.com/wlu03/sutton-barto-gomoku)
 
 ### Agentic Projects
-- [Inspector: Multi-CUAs for Sandboxed UI Testing] \;\;(https://devpost.com/software/inspector-23ser6#updates)[![Repo](https://img.shields.io/badge/GitHub-wlu03%2FInspector-181717?logo=github&logoColor=white)](https://github.com/wlu03/Inspector) [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
+- [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) [![Repo](https://img.shields.io/badge/GitHub-wlu03%2FInspector-181717?logo=github&logoColor=white)](https://github.com/wlu03/Inspector) [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
 - [Voice and Screen Agent for MacOS]()
 - [AppealRX: Using RAG and a Fine-Tuned BERT Classifier to Improve Insurance Appeal Success](https://devpost.com/software/appealrx)
 
