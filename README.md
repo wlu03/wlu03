@@ -18,7 +18,9 @@ hello, i'm wesley. here's some of my publicized work
 - [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) 
 [![Repo](https://img.shields.io/badge/GitHub-wlu03%2FInspector-181717?logo=github&logoColor=white)](https://github.com/wlu03/Inspector)
 [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
-- []
+- [Voice and Screen Agent for MacOS]()
+[![Voice](https://img.shields.io/badge/🎙️_Voice-enabled-D96C75?labelColor=2E2733)](#)
+[![Vision](https://img.shields.io/badge/👁️_Screen-aware-D96C75?labelColor=2E2733)](#)
 
 
 #### World Models, Simulation & Embodied AI
