@@ -16,8 +16,8 @@ hello, i'm wesley. here's some of my publicized work
 
 ### Agentic Projects
 - [Inspector: Multi-CUAs for Sandboxed UI Testing](https://devpost.com/software/inspector-23ser6#updates) [![Award](https://img.shields.io/badge/UC_Berkeley_AI_Hackathon-🏆_Hacker's_Choice_Award_·_Finalist-FDB515?labelColor=003262)](https://devpost.com/software/inspector-23ser6)
-- [AppealRX: Using RAG and a Fine-Tuned BERT Classifier to Improve Insurance Appeal Success](https://devpost.com/software/appealrx) ![HOF Hack](https://img.shields.io/badge/HOF-HACK-ec4899?style=for-the-badge&logo=github&logoColor=white)
-- [Multimodal Data to Robot-Ready MuJoCo Simulator](https://github.com/wlu03/world2sim) ![YC × DeepMind Hackathon](https://img.shields.io/badge/YC%20×%20DeepMind-HACKATHON-22d3ee?style=for-the-badge&labelColor=ff6b00)
+- [AppealRX: Using RAG and a Fine-Tuned BERT Classifier to Improve Insurance Appeal Success](https://devpost.com/software/appealrx) <img src="https://img.shields.io/badge/HOF-HACK-ec4899?style=flat&logo=github&logoColor=white" alt="HOF Hack" height="18">
+- [Multimodal Data to Robot-Ready MuJoCo Simulator](https://github.com/wlu03/world2sim) <img src="https://img.shields.io/badge/YC%20%C3%97%20DeepMind-HACKATHON-22d3ee?style=flat&labelColor=ff6b00" alt="YC × DeepMind Hackathon" height="18">
 - [Voice and Screen Agent for MacOS]()
 
 ### Systems
